@@ -21,4 +21,6 @@ An online chat software
 
 This chat software has no "server", so the response time may be longer.
 
+Please wait patiently after "send message" to regain focus, otherwise the interface will lose response easily.
+
 Please close VPN before using.
