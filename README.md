@@ -7,7 +7,7 @@ An online chat software
 
 2.click "Connect to Server"
 
-3.wait for the signal to full status in the upper right corner
+3.wait for the signal in the upper right corner to full status
 
 4.type message in textbox
 
