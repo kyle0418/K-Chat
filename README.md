@@ -19,6 +19,6 @@ An online chat software
 
 # Tips
 
-This chat software has no "server", so the response time may be longer
+This chat software has no "server", so the response time may be longer.
 
-Please close VPN before using
+Please close VPN before using.
