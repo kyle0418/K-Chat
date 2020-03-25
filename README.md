@@ -1,4 +1,4 @@
-# K-Chat
+# K-Chat [unavailable]
 An online chat software
 
 # How to use
